@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1725884715.16415 "d:/Codigos/Estatistica-UFSC/Documentação das aulas/Main.tex" "Main.pdf" "Main" 1725884716.58331 0
+["pdflatex"] 1725897919.44134 "d:/Codigos/Estatistica-UFSC/Documentação das aulas/Main.tex" "Main.pdf" "Main" 1725897922.99799 0
   "C:/Users/areag/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1725739578 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/areag/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1725731011 11548 68fcc64816317c0928c58c929f8a498f ""
   "C:/Users/areag/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725729216 24251262 f13ae5b104612f83b8a084720d1dce8d ""
@@ -183,9 +183,9 @@
   "D:/Apps/Miktex/tex/latex/pgfplots/pgfplots.sty" 1621075461 4904 ee78b44e85d6fccf08cd99370557481e ""
   "D:/Apps/Miktex/tex/latex/tools/multicol.sty" 1718356376 32621 00e86c03dbf6e71d7ea7ebac2bd4fcaf ""
   "D:/Apps/Miktex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "Main.aux" 1725884716 1342 7a1503bdc09df09eb3430f86fd031da1 "pdflatex"
-  "Main.tex" 1725884714 3829 ed387940a2e2c05135adc178f27904a3 ""
-  "d:/Codigos/Estatistica-UFSC/Documentação das aulas/Main.tex" 1725884714 3829 ed387940a2e2c05135adc178f27904a3 ""
+  "Main.aux" 1725897922 1342 7a1503bdc09df09eb3430f86fd031da1 "pdflatex"
+  "Main.tex" 1725897917 3829 ed387940a2e2c05135adc178f27904a3 ""
+  "d:/Codigos/Estatistica-UFSC/Documentação das aulas/Main.tex" 1725897917 3829 ed387940a2e2c05135adc178f27904a3 ""
   (generated)
   "Main.aux"
   "Main.log"
