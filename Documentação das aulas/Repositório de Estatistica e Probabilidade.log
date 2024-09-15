@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.7)  9 SEP 2024 13:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.7)  15 SEP 2024 20:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Codigos/Estatistica-UFSC/Documentação das aulas/Main.tex"
-(d:/Codigos/Estatistica-UFSC/Documentação das aulas/Main.tex
+**"d:/Codigos/Estatistica-UFSC/Documentação das aulas/Repositório de Estatistica e Probabilidade.tex"
+(d:/Codigos/Estatistica-UFSC/Documentação das aulas/Repositório de Estatistica e Probabilidade.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
 (D:\Apps\Miktex\tex/latex/base\article.cls
@@ -484,23 +484,23 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count324
 \l__pdf_internal_box=\box114
-) (Main.aux)
-\openout1 = `Main.aux'.
+) (Repositório de Estatistica e Probabilidade.aux)
+\openout1 = `"Repositório de Estatistica e Probabilidade.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
  (D:\Apps\Miktex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count325
@@ -556,40 +556,46 @@ Package pgfplots notification 'compat/show suggested version=true': document has
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
 (D:\Apps\Miktex\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
  (D:\Apps\Miktex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/Users/areag/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (15.8662pt too wide) in paragraph at lines 86--87
-[][] 
- []
+<./imagens/Histograma.png, id=23, 406.1574pt x 298.4751pt>
+File: ./imagens/Histograma.png Graphic file (type png)
+<use ./imagens/Histograma.png>
+Package pdftex.def Info: ./imagens/Histograma.png  used on input line 92.
+(pdftex.def)             Requested size: 227.62204pt x 167.27243pt.
+<./imagens/Boxplot.png, id=25, 398.9304pt x 284.7438pt>
+File: ./imagens/Boxplot.png Graphic file (type png)
+<use ./imagens/Boxplot.png>
+Package pdftex.def Info: ./imagens/Boxplot.png  used on input line 99.
+(pdftex.def)             Requested size: 227.62204pt x 162.47075pt.
 
 
-
-[2] (Main.aux)
+[2 <./imagens/Histograma.png> <./imagens/Boxplot.png>] (Repositório de Estatistica e Probabilidade.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 25423 strings out of 473899
- 642844 string characters out of 5740571
- 1940960 words of memory out of 5000000
- 47901 multiletter control sequences out of 15000+600000
- 567181 words of font info for 71 fonts, out of 8000000 for 9000
+ 24891 strings out of 473899
+ 628441 string characters out of 5740571
+ 1938960 words of memory out of 5000000
+ 47370 multiletter control sequences out of 15000+600000
+ 566846 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,9n,107p,780b,2393s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\areag\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Main.pdf (2 pages, 179123 bytes).
+ 99i,8n,107p,819b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "Repositório de Estatistica e Probabilidade.pdf" (2 pages, 190548 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 92 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 27 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

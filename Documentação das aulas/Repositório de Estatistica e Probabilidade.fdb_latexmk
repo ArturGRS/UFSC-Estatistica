@@ -1,9 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1725897919.44134 "d:/Codigos/Estatistica-UFSC/Documentação das aulas/Main.tex" "Main.pdf" "Main" 1725897922.99799 0
+["pdflatex"] 1726443873.92934 "d:/Codigos/Estatistica-UFSC/Documentação das aulas/Repositório de Estatistica e Probabilidade.tex" "Repositório de Estatistica e Probabilidade.pdf" "Repositório de Estatistica e Probabilidade" 1726443874.94891 0
   "C:/Users/areag/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1725739578 82507 a9eef8696c92627b87e9975edea03b2a ""
-  "C:/Users/areag/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1725731011 11548 68fcc64816317c0928c58c929f8a498f ""
   "C:/Users/areag/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725729216 24251262 f13ae5b104612f83b8a084720d1dce8d ""
-  "D:/Apps/Miktex/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "D:/Apps/Miktex/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "D:/Apps/Miktex/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "D:/Apps/Miktex/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -183,11 +181,13 @@
   "D:/Apps/Miktex/tex/latex/pgfplots/pgfplots.sty" 1621075461 4904 ee78b44e85d6fccf08cd99370557481e ""
   "D:/Apps/Miktex/tex/latex/tools/multicol.sty" 1718356376 32621 00e86c03dbf6e71d7ea7ebac2bd4fcaf ""
   "D:/Apps/Miktex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "Main.aux" 1725897922 1342 7a1503bdc09df09eb3430f86fd031da1 "pdflatex"
-  "Main.tex" 1725897917 3829 ed387940a2e2c05135adc178f27904a3 ""
-  "d:/Codigos/Estatistica-UFSC/Documentação das aulas/Main.tex" 1725897917 3829 ed387940a2e2c05135adc178f27904a3 ""
+  "Repositório de Estatistica e Probabilidade.aux" 1726443874 1555 96c1dd8d42f7cf407a46d8aef039f5e6 "pdflatex"
+  "Repositório de Estatistica e Probabilidade.tex" 1726443873 4628 a04adb438a87d0a2ee87c2d8b2186944 ""
+  "d:/Codigos/Estatistica-UFSC/Documentação das aulas/Repositório de Estatistica e Probabilidade.tex" 1726443873 4628 a04adb438a87d0a2ee87c2d8b2186944 ""
+  "imagens/Boxplot.png" 1726441759 8859 8e57553feb18bf5abd6959ab6c44732b ""
+  "imagens/Histograma.png" 1726441752 8685 5df47d61604efe5a0e0c36e5f360dacb ""
   (generated)
-  "Main.aux"
-  "Main.log"
-  "Main.pdf"
+  "Repositório de Estatistica e Probabilidade.aux"
+  "Repositório de Estatistica e Probabilidade.log"
+  "Repositório de Estatistica e Probabilidade.pdf"
   (rewritten before read)

@@ -2,6 +2,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath, amssymb, amsthm}
 \usepackage{graphicx, float}
+\graphicspath{ {./imagens/} }
 \usepackage{multicol}
 \usepackage[brazil]{babel}
 \usepackage{pgfplots}
@@ -14,15 +15,17 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.8em}
 
-\title{\textbf{Resumo da Matéria}}
-\author{UFSC - Estatistica e Probabilidade \\ Artur Gemaque}
-\date{Finalizado em \today}
+\title{\textbf{Repositório de Estatistica e Probabilidade}}
+\author{UFSC Joinville - EMB5010 \\ Artur Gemaque}
+\date{\today}
 %%%%%%%%%%%%%%%%%%%%%%%%%% COMEÇO DO DOCUMENTO %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \maketitle
 
 \begin{abstract}
-Este documento tempo como principal funcionalidade registrar os contudos ensinados em sala de aula pelo professor Jaimes, ademais servirá como fonte de estudo para as provas referentes há Matéria.
+Este documento tempo como principal funcionalidade registrar os contudos ensinados 
+em sala de aula pelo professor Jaimes, ademais servirá como fonte de estudo para as 
+provas referentes há Matéria.
 \end{abstract}
 
 \begin{multicols}{2} % Início da seção com duas colunas
@@ -44,13 +47,16 @@ Este documento tempo como principal funcionalidade registrar os contudos ensinad
         \end{center}
 
       \subsubsection{Desvio padrão}
-      O desvio padrão é uma medida de dispersão estatística que indica o quão afastados os dados de um conjunto estão da sua média. Ele é a raiz quadrada da variância, o que o torna mais interpretável.
+      O desvio padrão é uma medida de dispersão estatística que indica o quão afastados os 
+      dados de um conjunto estão da sua média. Ele é a raiz quadrada da variância, o que o 
+      torna mais interpretável.
         \begin{center}
           $ S = \sqrt[2]{S^2}$
         \end{center}
 
   \subsection{Valores de análise}
-    Partindo agora para valores que são obtidos apartir dos dados ordenados em formato crescente. Observação que as seguintes fórmulas serão para que possamos obter as posição dos referidos valores.    
+    Partindo agora para valores que são obtidos apartir dos dados ordenados em formato crescente. 
+    Observação que as seguintes fórmulas serão para que possamos obter as posição dos referidos valores.    
     
     \subsubsection{Mediana}
     Mediana é o número no centro de um grupo de números.
@@ -59,7 +65,10 @@ Este documento tempo como principal funcionalidade registrar os contudos ensinad
     \end{center}
 
     \subsubsection{Quartis}
-    Os quartis são valores que dividem uma amostra de dados em quatro partes iguais e são usados para avaliar a dispersão e a tendência central de um conjunto de dados. Eles são os valores contidos nas posições de $ n*25\% $ entre outras porcentagens, caso "n" dê um valor quebrado o Quartil vai ser a média entre os dois valores.
+    Os quartis são valores que dividem uma amostra de dados em quatro partes iguais e são usados para 
+    avaliar a dispersão e a tendência central de um conjunto de dados. Eles são os valores contidos nas 
+    posições de $ n*25\% $ entre outras porcentagens, caso "n" dê um valor quebrado o Quartil vai ser a 
+    média entre os dois valores.
     \begin{center}
       $ Q_1 = X_{(\frac{n + 1}{4})} $ \\
       $ Q_3 = X_{(\frac{3(n + 1)}{4})} $
@@ -69,21 +78,32 @@ Este documento tempo como principal funcionalidade registrar os contudos ensinad
     A moda é o valor que mais aparece em um conjunto de dados, ou seja, o valor que tem maior frequência.
     
     \subsubsection{Amplitude}
-    A amplitude de um conjunto de dados é a diferença entre o maior e o menor valor. Para calcular a amplitude, subtrai-se o menor valor do maior. 
+    A amplitude de um conjunto de dados é a diferença entre o maior e o menor valor. Para calcular a amplitude, 
+    subtrai-se o menor valor do maior. 
 
 \section{Gráficos}
   Partindo para a seção de Gráficos\dots
   
-  \begin{itemize}
-    \item Histograma
-    \item BoxPlot
-  \end{itemize}
+    \subsubsection{Histograma}
+      Um histograma é uma espécie de gráfico de barras que demonstra uma distribuição de frequências. No histograma, 
+    a base de cada uma das barras representa uma classe e a altura representa a quantidade ou frequência absoluta com 
+    que o valor de cada classe ocorre.
 
-  \begin{tikzpicture}
-    \begin{axis}
-      \addplot3[surf, samples = 20, shader = interp]{1-x^2-y^2};
-    \end{axis}
-  \end{tikzpicture}
+    \hbox{\includegraphics[width=8cm]{Histograma.png}}
+    
+    \subsubsection{Boxplot}  
+    O Box Plot, que estudamos no curso Green Belt, é uma ferramenta gráfica que ajuda a identificar a existência de 
+    possíveis outliers no conjunto de dados. Em um boxplot são apresentadas 5 estatísticas: o mínimo, o primeiro quartil 
+    (Q1), a mediana, o terceiro quartil (Q3) e o máximo.
+    
+    \hbox{\includegraphics[width=8cm]{Boxplot.png}}   
+    
+
+  %\begin{tikzpicture}
+  %  \begin{axis}
+  %    \addplot3[surf, samples = 20, shader = interp]{1-x^2-y^2};
+  %  \end{axis}
+  % \end{tikzpicture}
 
 \end{multicols} % Fim da seção com duas colunas
 \end{document}
