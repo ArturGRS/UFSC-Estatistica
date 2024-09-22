@@ -29,7 +29,7 @@ provas referentes há Matéria.
 \end{abstract}
 
 \begin{multicols}{2} % Início da seção com duas colunas
-\section{ Medidas Descritivas:}
+\section{ Estatistica}
 
   \subsection{Valores de cálculo}
       Vamos começar com as definições mais simplórias da matéria que são resultado do cálculo dos dados.
@@ -89,14 +89,32 @@ provas referentes há Matéria.
     a base de cada uma das barras representa uma classe e a altura representa a quantidade ou frequência absoluta com 
     que o valor de cada classe ocorre.
 
-    \hbox{\includegraphics[width=8cm]{Histograma.png}}
+    \hbox{\includegraphics[width=7cm]{Histograma.png}}
     
     \subsubsection{Boxplot}  
     O Box Plot, que estudamos no curso Green Belt, é uma ferramenta gráfica que ajuda a identificar a existência de 
     possíveis outliers no conjunto de dados. Em um boxplot são apresentadas 5 estatísticas: o mínimo, o primeiro quartil 
     (Q1), a mediana, o terceiro quartil (Q3) e o máximo.
     
-    \hbox{\includegraphics[width=8cm]{Boxplot.png}}   
+    \hbox{\includegraphics[width=7cm]{Boxplot.png}}  
+    
+\section{Axiomas da Probabilidade}
+
+    \ Sejam $ A_i $ num espaço amostral $ \Omega: $
+
+    \begin{enumerate}
+      \item $ 0 \leqslant P(A_i) \leqslant 1 $
+      \item $ P(\Omega) = 1 $
+      \item $ P(A_1 \bigcup A_2) = P(A_1) + P(A_2)\\ \Leftrightarrow P(A_1 \cap A_2) = 0 $
+    \end{enumerate}
+
+    \ Algumas propriedades decorrentes dos axiomas:
+    \begin{list}{ - }{spacing}
+      \item $ P( \varnothing ) = 0 $
+      \item $ P(A) + P(\overset{\_}{A}) = 1 \ \rightarrow P(\overset{\_}{A}) = 1 - P(A) $
+      \item $ P(A_1 \bigcup A_2) = P(A_1) + P(A_2) - P(A_1 \cap A_2) $
+    \end{list}
+
     
 
   %\begin{tikzpicture}
