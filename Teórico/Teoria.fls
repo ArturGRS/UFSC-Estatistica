@@ -1,7 +1,7 @@
-PWD d:\Codigos\Estatistica-UFSC\Documentação das aulas
+PWD d:\Codigos\UFSC-Estatistica\Teórico
 INPUT C:\Users\areag\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Codigos\Estatistica-UFSC\Documentação das aulas\Repositório de Estatistica e Probabilidade.tex
-OUTPUT Repositório de Estatistica e Probabilidade.log
+INPUT d:\Codigos\UFSC-Estatistica\Teórico\Teoria.tex
+OUTPUT Teoria.log
 INPUT D:\Apps\Miktex\tex\latex\base\article.cls
 INPUT D:\Apps\Miktex\tex\latex\base\article.cls
 INPUT D:\Apps\Miktex\tex\latex\base\size10.clo
@@ -225,10 +225,10 @@ INPUT D:\Apps\Miktex\tex\latex\geometry\geometry.cfg
 INPUT D:\Apps\Miktex\tex\latex\geometry\geometry.cfg
 INPUT D:\Apps\Miktex\tex\latex\l3backend\l3backend-pdftex.def
 INPUT D:\Apps\Miktex\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\Repositório de Estatistica e Probabilidade.aux
-INPUT .\Repositório de Estatistica e Probabilidade.aux
-INPUT Repositório de Estatistica e Probabilidade.aux
-OUTPUT Repositório de Estatistica e Probabilidade.aux
+INPUT .\Teoria.aux
+INPUT .\Teoria.aux
+INPUT Teoria.aux
+OUTPUT Teoria.aux
 INPUT D:\Apps\Miktex\tex\context\base\mkii\supp-pdf.mkii
 INPUT D:\Apps\Miktex\tex\context\base\mkii\supp-pdf.mkii
 INPUT D:\Apps\Miktex\tex\context\base\mkii\supp-pdf.mkii
@@ -268,7 +268,6 @@ INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmbx9.tfm
 INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmr12.tfm
 INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmbx12.tfm
 INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmbx12.tfm
-INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmbx10.tfm
 INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
@@ -277,7 +276,7 @@ INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\symbols\msam5.tfm
 INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-OUTPUT Repositório de Estatistica e Probabilidade.pdf
+OUTPUT Teoria.pdf
 INPUT C:\Users\areag\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\imagens\Histograma.png
 INPUT .\imagens\Histograma.png
@@ -291,9 +290,44 @@ INPUT .\imagens\Boxplot.png
 INPUT .\imagens\Boxplot.png
 INPUT .\imagens\Boxplot.png
 INPUT .\imagens\Boxplot.png
-INPUT Repositório de Estatistica e Probabilidade.aux
-INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT D:\Apps\Miktex\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT .\imagens\Função Prob e Prob Acumulada.jpg
+INPUT .\imagens\Função Prob e Prob Acumulada.jpg
+INPUT .\imagens\Função Prob e Prob Acumulada.jpg
+INPUT .\imagens\Função Prob e Prob Acumulada.jpg
+INPUT .\imagens\Função Prob e Prob Acumulada.jpg
+INPUT .\imagens\Função Prob e Prob Acumulada.jpg
+INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\Apps\Miktex\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\Apps\Miktex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT .\imagens\Função Densidade.jpg
+INPUT .\imagens\Função Densidade.jpg
+INPUT .\imagens\Função Densidade.jpg
+INPUT .\imagens\Função Densidade.jpg
+INPUT .\imagens\Função Densidade.jpg
+INPUT .\imagens\Função Densidade.jpg
+INPUT .\imagens\distribuição continua.jpg
+INPUT .\imagens\distribuição continua.jpg
+INPUT .\imagens\distribuição continua.jpg
+INPUT .\imagens\distribuição continua.jpg
+INPUT .\imagens\distribuição continua.jpg
+INPUT .\imagens\distribuição continua.jpg
+INPUT .\imagens\Distribuição exponelcial.jpg
+INPUT .\imagens\Distribuição exponelcial.jpg
+INPUT .\imagens\Distribuição exponelcial.jpg
+INPUT .\imagens\Distribuição exponelcial.jpg
+INPUT .\imagens\Distribuição exponelcial.jpg
+INPUT .\imagens\Distribuição exponelcial.jpg
+INPUT Teoria.aux
+INPUT C:\Users\areag\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\areag\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmbx9.pfb
@@ -304,6 +338,8 @@ INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cmextra\cmex7.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cmextra\cmex7.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi5.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi5.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi7.pfb
@@ -312,6 +348,8 @@ INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr5.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr5.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr7.pfb

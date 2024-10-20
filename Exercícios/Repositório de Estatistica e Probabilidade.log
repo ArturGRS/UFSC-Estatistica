@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.7)  17 SEP 2024 10:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.7)  16 OCT 2024 19:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Codigos/Estatistica-UFSC/Documentação das aulas/Repositório de Estatistica e Probabilidade.tex"
-(d:/Codigos/Estatistica-UFSC/Documentação das aulas/Repositório de Estatistica e Probabilidade.tex
+**"d:/Codigos/UFSC-Estatistica/Documentação das aulas/Repositório de Estatistica e Probabilidade.tex"
+(d:/Codigos/UFSC-Estatistica/Documentação das aulas/Repositório de Estatistica e Probabilidade.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
 (D:\Apps\Miktex\tex/latex/base\article.cls
@@ -569,33 +569,37 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <./imagens/Histograma.png, id=23, 406.1574pt x 298.4751pt>
 File: ./imagens/Histograma.png Graphic file (type png)
 <use ./imagens/Histograma.png>
-Package pdftex.def Info: ./imagens/Histograma.png  used on input line 92.
+Package pdftex.def Info: ./imagens/Histograma.png  used on input line 88.
 (pdftex.def)             Requested size: 199.16928pt x 146.36337pt.
 <./imagens/Boxplot.png, id=25, 398.9304pt x 284.7438pt>
 File: ./imagens/Boxplot.png Graphic file (type png)
 <use ./imagens/Boxplot.png>
-Package pdftex.def Info: ./imagens/Boxplot.png  used on input line 99.
+Package pdftex.def Info: ./imagens/Boxplot.png  used on input line 95.
 (pdftex.def)             Requested size: 199.16928pt x 142.163pt.
 
 
-[2 <./imagens/Histograma.png> <./imagens/Boxplot.png>] (Repositório de Estatistica e Probabilidade.aux)
+[2 <./imagens/Histograma.png> <./imagens/Boxplot.png>]
+
+[3]
+
+[4] (Repositório de Estatistica e Probabilidade.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 24895 strings out of 473899
- 628555 string characters out of 5740571
+ 24906 strings out of 473899
+ 628781 string characters out of 5740571
  1938960 words of memory out of 5000000
- 47374 multiletter control sequences out of 15000+600000
- 566846 words of font info for 70 fonts, out of 8000000 for 9000
+ 47384 multiletter control sequences out of 15000+600000
+ 567181 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,8n,107p,819b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/symbols/msam10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "Repositório de Estatistica e Probabilidade.pdf" (2 pages, 206905 bytes).
+ <C:\Users\areag\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/symbols/msam10.pfb><D:/Apps/Miktex/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "Repositório de Estatistica e Probabilidade.pdf" (4 pages, 268786 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
+ 143 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
