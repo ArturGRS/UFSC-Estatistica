@@ -325,6 +325,12 @@ INPUT .\imagens\Distribuição exponelcial.jpg
 INPUT .\imagens\Distribuição exponelcial.jpg
 INPUT .\imagens\Distribuição exponelcial.jpg
 INPUT .\imagens\Distribuição exponelcial.jpg
+INPUT .\imagens\Tipos de erros.jpg
+INPUT .\imagens\Tipos de erros.jpg
+INPUT .\imagens\Tipos de erros.jpg
+INPUT .\imagens\Tipos de erros.jpg
+INPUT .\imagens\Tipos de erros.jpg
+INPUT .\imagens\Tipos de erros.jpg
 INPUT Teoria.aux
 INPUT C:\Users\areag\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\areag\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
@@ -342,8 +348,12 @@ INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi5.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr12.pfb
@@ -352,14 +362,22 @@ INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr5.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\symbols\msam10.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\symbols\msam10.pfb
 INPUT D:\Apps\Miktex\fonts\type1\public\amsfonts\symbols\msbm10.pfb

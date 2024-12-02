@@ -188,7 +188,7 @@ provas referentes há Matéria.
  
   \begin{itemize}
     \item $ \mu = n \cdot p $
-    \item $ \sigma = \sqrt{n \cdot p \cdot (1 - p)} $
+    \item $ \sigma^2 = n \cdot p \cdot (1 - p) $
   \end{itemize}  
   \end{multicols}
 
@@ -282,4 +282,61 @@ provas referentes há Matéria.
     $ Z = \frac{X - \mu}{\sigma} \rightarrow $ O resto é tabela Tmj S2
   \end{center}
 
-\end{document}
+  \newpage
+
+\section{Estimação de parâmetros}
+
+  \subsection{Intervalo de Confiança para $ \mu $}
+
+  \ Intervalos de confiança estabelecem limites dentro dos quais é altamente
+  provável que se encontre o valor verdadeiro do parâmetro estimado, com um nível
+  de confiaça especificado
+
+  \begin{itemize}
+    \item Desvio-padrão populacional conhecido ( ou $ n  \eqslantgtr 40 $):
+    \begin{quote}\begin{large}
+      $ \overset{-}{X} - Z_{\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \eqslantless \mu \eqslantless \overset{-}{X} + Z_{\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} $  
+    \end{large}\end{quote}
+    \item Desvio-padrão populacional desconhecido ( estimado a partir da amostra ):
+    \begin{quote}\begin{large}
+      $ \overset{-}{X} - t_{\frac{\alpha}{2}}, n-1 \frac{S}{\sqrt{n}} \eqslantless \mu \eqslantless \overset{-}{X} + t_{\frac{\alpha}{2}}, n-1 \frac{S}{\sqrt{n}}  $ 
+    \end{large}\end{quote}
+    \item Intervalor de confiança para a proporção:
+    \begin{quote}\begin{large}
+      $ IC(p,1-\alpha) : p = \mbox{\^p} \pm Z_{\frac{\alpha}{2}} \sqrt{\frac{\mbox{\^p}(1-\mbox{\^p})}{n}} $
+    \end{large}\end{quote}
+    \item Intervalor de confiança para a variância de uma população normal:
+    \begin{quote}
+      \begin{large}
+        \( IC(\sigma^2,1-\alpha) : \frac{(n-1)s^2}{{X^2}_{\frac{\alpha}{2}},n-1} \eqslantless \sigma^2 \eqslantless \frac{(n-1)s^2}{{X^2}_{1- \frac{\alpha}{2}},n-1} \)        
+    \end{large}\end{quote}
+    \item Tamanho da amostra para garantir determinado erro
+    \begin{quote}\begin{large}
+      $ n = (\frac{Z_{\frac{\alpha}{2}} \sigma }{E})^2 $
+    \end{large}\end{quote}
+  \end{itemize}
+
+\section{Introdução ao teste de Hipóteses}
+
+  Tipos de hipôteses
+  
+  \begin{center}\begin{itemize}
+    \item Hipótese nula
+    \begin{quote}
+      $ H_0: \mu = \mu_0 $
+    \end{quote}
+    \item Hipótese alternativa bilateral
+    \begin{quote}
+      $ H_0: \mu \neq \mu_0 $
+    \end{quote}
+    \item Hipótese alternativa unilateral
+    \begin{quote}
+      $ H_1: \mu > \mu_0 $\\
+      $ H_1: \mu < \mu_0 $
+    \end{quote}
+  \end{itemize}
+
+  \hbox{\includegraphics[width=8cm]{Tipos de erros.jpg}}
+  \end{center}
+
+  \end{document}
